@@ -13,4 +13,4 @@ path = "src/lib.rs"
 [dependencies]
 egui = "0.26.2"
 image = "0.24.9"
-obs-wrapper = "0.4.1"
+obs-wrapper = { version = "0.4.1" }
